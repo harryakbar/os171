@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 harry.akbar StafCS 4096 Feb 12 20:55 .
+drwx--x--x  4 harry.akbar StafCS 4096 Feb 12 20:52 ..
+drwxr-xr-x  8 harry.akbar StafCS 4096 Feb 12 20:53 .git
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:35 key
+-rw-r--r--  1 harry.akbar StafCS    0 Feb 12 20:55 lab01.txt
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:35 log
+-rw-r--r--  1 harry.akbar StafCS    7 Feb 12 20:22 README.md
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:42 sandbox
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:52 week00
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:32 week01
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:33 week02
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:33 week03
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:33 week04
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:34 week05
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:34 week06
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:34 week07
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:34 week08
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:34 week09
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:34 week10
+drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:35 xtra
+/home/fasilkom/mahasiswa/h/harry.akbar/os171/week01
