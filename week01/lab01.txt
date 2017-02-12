@@ -20,3 +20,6 @@ drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:34 week09
 drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:34 week10
 drwxr-xr-x  2 harry.akbar StafCS 4096 Feb 12 20:35 xtra
 /home/fasilkom/mahasiswa/h/harry.akbar/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
