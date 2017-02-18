@@ -1,0 +1,11 @@
+w01-170212-18-PS-About: Lab Session
+w01-170212-18-PS-About: Lab Session
+w01-170212-19-PS-About: Lab Session
+w01-170212-19-PS-About: Lab Session
+w01-170214-13-LR-About: Introduction to CLI, From: Lecturer
+w01-170214-13-LR-About: Introduction to CLI, From: Lecturer
+w01-170214-14-LR-About: Introduction to Scripting, From: Lecturer
+w01-170214-14-LR-About: Introduction to Scripting, From: Lecturer
+w01-170216-11-LR-About: Review last meet, From: Slides in Archive Scele
+w01-170216-13-LR-About: Scripting IF, LOOP, CAT, From: Lecturer
+w01-170216-13-LR-About: Scripting IF, LOOP, CAT, From: Lecturer
