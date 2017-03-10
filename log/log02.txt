@@ -1,0 +1,10 @@
+w02-170221-13-LR-About: Introduction to Performance and Security (virus, backdoor, etc), From: Lecturer
+w02-170221-13-LR-About: Introduction to Performance and Security (virus, backdoor, etc), From: Lecturer
+w02-170221-14-LR-About: Introduction to Performance and Security (virus, backdoor, etc), From: Lecturer
+w02-170221-14-LR-About: Introduction to Performance and Security (virus, backdoor, etc), From: Lecturer
+w02-170223-13-LR-About: C Proramming, From: Lecturer
+w02-170223-13-LR-About: C Programming, From: Lecturer
+w02-170223-14-PS-About: C Programming, From: Lecturer
+w02-170223-14-PS-About: C Programming, From: Lecturer
+w02-170224-19-PS-About: Lab Session
+w02-170224-19-PS-About: Lab Session
